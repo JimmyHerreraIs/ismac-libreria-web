@@ -9,9 +9,9 @@
 <link  rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/estilos.css" />
 
 </head>
-<body>
+<body background="blue">
 
-	<h1>HOLA MUNDO DESDE TOMCAT</h1>
+	<h1>Hola desde Ismac libreria Web</h1>
 
 </body>
 </html>
